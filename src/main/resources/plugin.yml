@@ -1,0 +1,10 @@
+main: cc.ajneb97.ChristmasCalendar
+version: 1.0.0
+name: ChristmasCalendar
+author: Ajneb97
+api-version: 1.13
+depend: [NBTAPI]
+
+commands:
+  calendario:
+    description: Comando principal de ChristmasCalendar
