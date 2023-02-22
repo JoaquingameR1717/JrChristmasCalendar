@@ -1,2 +1,2 @@
 # JrChristmasCalendar
- This plugin is Christmas Calendar
+ This plugin is a Christmas Calendar
