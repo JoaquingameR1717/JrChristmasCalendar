@@ -1,0 +1,4 @@
+Gifts: 
+    messageGiftClaimed: "&a&lDay &6&l%day% &c&lChristmas &a&lReward &c&lReceived!"
+    1: 
+      - "eco give %playerName% 2000"
