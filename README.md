@@ -1,2 +1,2 @@
-# ChristmasCalendar
- Plugin de Calendario de Adviento
+# JrChristmasCalendar
+ This plugin is Christmas Calendar
